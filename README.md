@@ -1,4 +1,3 @@
-# mt.everstproject
 <html>
   <head>
     <title>Mount Everest</title>
